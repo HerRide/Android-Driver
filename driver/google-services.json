@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "373189381702",
+    "firebase_url": "https://herride-5e445.firebaseio.com",
+    "project_id": "herride-5e445",
+    "storage_bucket": "herride-5e445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373189381702:android:72913bfd20ad98afc28447",
+        "android_client_info": {
+          "package_name": "com.herride.taxi.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373189381702-sgj40727il0uiu2nnc210kgeted9rb1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK-y5YMqBT2YhrqGvbclGyaZYWfUEb1bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373189381702-sgj40727il0uiu2nnc210kgeted9rb1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
